@@ -1,2 +1,2 @@
 # Wine-Quality-Analysis
-Visulaization and graphs for wine quality
+Exploratory Data Analysis in Python-> Visulaization and graphs for wine quality
